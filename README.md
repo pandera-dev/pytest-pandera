@@ -1,2 +1,3 @@
 # pytest-pandera
-pytest plugin to generate data testing reports
+
+A pytest plugin for pandas data testing with pandera.
